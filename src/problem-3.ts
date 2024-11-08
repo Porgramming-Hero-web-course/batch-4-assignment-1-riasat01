@@ -10,8 +10,8 @@
         return wordCounter;
     }
     // Sample Input:
-    const x : number = countWordOccurrences("I lotypescRipTve typescript", "typescript");
-    console.log(x);
+    // const x : number = countWordOccurrences("I lotypescRipTve typescript", "typescript");
+    // console.log(x);
     // Sample Output:
     // 1;
 }

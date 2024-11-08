@@ -7,9 +7,9 @@
         }
     }
     // Sample Input 1:
-    const car = new Car("Honda", "Civic", 2008);
-    const x: number = car.getCarAge();
-    console.log(x);
+    // const car = new Car("Honda", "Civic", 2008);
+    // const x: number = car.getCarAge();
+    // console.log(x);
     // Sample Output 1:
     // 6(assuming current year is 2024)
 }
